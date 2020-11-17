@@ -1,0 +1,1 @@
+download crop frequency rasters (.tif) from the USGS https://www.nass.usda.gov/Research_and_Science/Cropland/Release/ and place them in this directory for analysis
