@@ -138,14 +138,3 @@ As a farmer concerned with good crop rotation practices, I want a breakdown of c
   }
 }
 ```
-
-### Preferred Tools
-* Flask
-* Shapely
-* Rasterio
-* Docker (optional)
-
-## Deliverables
-* Working API code
-* Documentation
-* Handover/demo meeting + code review
